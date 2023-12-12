@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yohanes Teshome Kebede</h1>
 <h3 align="center">A passionate data scientist from Ethiopia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yohanes213" alt="yohanes213" /></a> </p>
-
 - 🔭 I’m working on **Data Science, Deep Learning and Machine Learning.**
 
 - 👯 I’m open to collaborate on **ML and DL projects.**
 
 - 📫 How to reach me **johnteshe13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yiKUoXg4WzDt8z3fB04xtTB_qCPApLdX/view?usp=sharing](https://drive.google.com/file/d/1yiKUoXg4WzDt8z3fB04xtTB_qCPApLdX/view?usp=sharing)
+- 📄 Know about my experiences [Yohanes Teshome Kebede](https://drive.google.com/file/d/1yiKUoXg4WzDt8z3fB04xtTB_qCPApLdX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
