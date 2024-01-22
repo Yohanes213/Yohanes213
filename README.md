@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **johnteshe13@gmail.com**
 
-- 📄 Know about my experiences [Yohanes Teshome Kebede](https://drive.google.com/file/d/1JYdjcNJXFQ_wd_9veMF069ulYtSMHthp/view?usp=sharing/ target="_blank")
+- 📄 Know about my experiences [Yohanes Teshome Kebede](https://drive.google.com/file/d/1JYdjcNJXFQ_wd_9veMF069ulYtSMHthp/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
