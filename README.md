@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yohanes Teshome Kebede</h1>
 <h3 align="center">A passionate data scientist from Ethiopia</h3>
 
-![](https://komarev.com/ghpvc/?username=Yohanes213)
 
 - 🔭 I’m working on **Data Science, Deep Learning and Machine Learning.**
 
