@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yohanes Teshome Kebede</h1>
 <h3 align="center">A passionate data scientist from Ethiopia</h3>
-[![Yohanes Teshome Kebede's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yohanes213)](https://github.com/Yohanes213/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yohanes213&hide=contribs,prs)
 
 - 🔭 I’m working on **Data Science, Deep Learning and Machine Learning.**
 
