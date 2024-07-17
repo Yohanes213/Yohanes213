@@ -23,12 +23,14 @@
 
 <h3 align="left">Where to Find Me</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/yohanes-teshome/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  <a href="https://github.com/Yohanes213">
+    <img src="https://camo.githubusercontent.com/2a822909e8b8c12ecaddf706efc32e83a8e61609e1eb1793f31d9101ed38a954/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465" width="120" height="40" alt="linkedin logo" />
   </a>
-  <br>
+  <a href="https://www.linkedin.com/in/yohanes-teshome/">
+    <img src="https://camo.githubusercontent.com/e8dbf62a04af86d46001864cd22338d8a8474486a0e976ec695580027c373c79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" width="150" height="40" alt="linkedin logo" />
+  </a>
   <a href="https://medium.com/@Yohanes213/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo" />
+    <img src="https://camo.githubusercontent.com/0f120e50c4f652d41d0da7a91caa496bd7d043bff9f1029b4275ff4552eefc18/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d656469756d2d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" width="120" height="40" alt="medium logo" />
   </a>
 </div>
 
