@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yohanes Teshome Kebede</h1>
 <h3 align="center">A passionate data scientist from Ethiopia</h3>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
+  <img src="https://www.linkedin.com/in/yohanes-teshome/" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://medium.com/@Yohanes213" width="52" height="40" alt="medium logo"  />
 </div>
 
 ###
