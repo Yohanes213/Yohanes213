@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yohanes Teshome Kebede</h1>
 <h3 align="center">A passionate data scientist from Ethiopia</h3>
 
-- 🔭 I’m working on ** Machine Learning, Data Science, Generative AI** Projects.
+- 🔭 I’m working on **Machine Learning, Data Science, Generative AI** Projects.
 
 - 👯 I’m open to collaborate on **Machine Learning and Gen AI projects.**
 
